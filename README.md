@@ -293,6 +293,8 @@ kubectl get deploy -w -n flask-mongo-namespace
 <img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/476b1234-f336-40cd-911d-bff813df8b5c" />
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/70f962e3-775c-4907-b190-7c5c3ef6618c" />
 <img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/f8b183c0-80e4-41cc-89a4-c950bd423d69" />
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/728cc1e8-aa6b-4ad1-a215-5b5378a2b37c" />
+
 
 
 ### Expected Behavior:
